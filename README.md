@@ -1,2 +1,3 @@
 # Youtubeclone.github.io
-Front-end clone webiste of You
+Front-end clone webiste of Youtube using HTML & CSS
+
